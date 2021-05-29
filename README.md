@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @asvsz
-- 👀 I’m interested in  font-end, python...
-- 🌱 I'm currently studying the information systems course. 
+- 👋 Hi, I’m @asvsz;
+- 👀 I’m interested in  font-end, python;
+- 🌱 I'm currently studying the information systems course and I'm also a computer network technician;
 - 📫 You can reach me on instagram: @amandasvsz.
 
 <!---
