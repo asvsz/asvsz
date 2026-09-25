@@ -1,6 +1,6 @@
 ## Olá, sou a Amanda! 👋
 
-Sou desenvolvedora Full Stack, com experiência no desenvolvimento de aplicações web, APIs REST e bancos de dados.
+Sou desenvolvedora Full-Stack, com experiência no desenvolvimento de aplicações web, APIs REST e bancos de dados.
 
 Tenho interesse em engenharia de software, arquitetura de aplicações e boas práticas de desenvolvimento, buscando aprimorar continuamente minhas habilidades técnicas.
 
