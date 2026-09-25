@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá, sou a Amanda! 👋
 
-<!--
-**asvsz/asvsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora Full Stack, com experiência no desenvolvimento de aplicações web, APIs REST e bancos de dados.
 
-Here are some ideas to get you started:
+Tenho interesse em engenharia de software, arquitetura de aplicações e boas práticas de desenvolvimento, buscando aprimorar continuamente minhas habilidades técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Tecnologias</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,git,docker&theme=dark" height="36" alt="TypeScript, React, Next.js, Node.js, Express, PostgreSQL, Git e Docker" />
+</p>
+
+<h3>Atualmente estudando</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" height="36" alt="C# e .NET" />
+</p>
